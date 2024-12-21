@@ -2,7 +2,13 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: center; 
+ 
+}
+
+body{
+  background-color: #ebe500;
+  color: #1976D2;
 }
 
 .logo {
@@ -40,3 +46,17 @@
 .read-the-docs {
   color: #888;
 }
+li{
+  width:400px;
+ margin-left: 15px;
+  padding:0;
+}
+h4{
+  text-align: center;
+}
+
+h1{
+  color:#1976D2;
+}
+
+

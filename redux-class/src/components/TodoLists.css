@@ -1,0 +1,41 @@
+.ShowTasks {
+    padding: 25px 25px 25px 45px;
+    margin-top: 25px;
+
+
+}
+
+button {
+    background-color: #B6FFFA;
+    color: #474F7A;
+}
+
+ul {
+
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    list-style-type: none;
+}
+
+li {
+
+    width: 1300px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: center;
+
+}
+
+span {
+    margin-right: 10px;
+}
+
+.lists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+}
